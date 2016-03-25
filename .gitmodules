@@ -1,0 +1,6 @@
+[submodule "PECL0"]
+	path = PECL0
+	url = git@github.com:junquera/Corleone-CRA.git
+[submodule "PECL1"]
+	path = PECL1
+	url = git@github.com:junquera/Buscaminas-CRA.git
