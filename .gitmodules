@@ -7,3 +7,6 @@
 [submodule "PECL2"]
 	path = PECL2
 	url = https://github.com/junquera/Syntax-CRA
+[submodule "PECL3"]
+	path = PECL3
+	url = git@github.com:junquera/LambdaAritmetica-CRA.git
